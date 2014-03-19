@@ -1,4 +1,4 @@
-require 'resque-loner'
+require 'resque_solo'
 require 'lifesaver/version'
 require 'lifesaver/config'
 require 'lifesaver/serialized_model'
